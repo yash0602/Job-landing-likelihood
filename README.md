@@ -1,7 +1,7 @@
 # Job-Landing-Likelihood 
 It is hard for international students to land a job mainly due to 2 reasons - 1) High competition 2) Low job openings(Jon Density). This data analysis shows that there is a higher chance of landing a job in cities where graduation rate is low and demand of job is more. 
 
-![](/Users/yash/Desktop/Screen Shot 2020-02-12 at 16.48.20.png)
+![](https://github.com/yash0602/Job-landing-likelihood/blob/master/g.png)
 
 # Analysis 
  Major cities like New York, San Franciso, and Boston have higher graduation rate implying high competition. Since the Job Density is almost constatnt throught the cities, it gets harder for students to land a job in such high competetive pool. Small US cities like Austin and Tallahassee (with less schools) have low graduation rate but almost similar job density as other major cities suggesting that there is a higher chance for students to land a job beacuse of low competetion.     
