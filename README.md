@@ -1,0 +1,2 @@
+# Job-landing-likelihood
+It is hard for international students to land a job mainly due to 2 reasons - 1) High competition 2) Low job openings. This data analysis shows that there is a higher chance of landing a job in cities where graduation rate is low and demand of job is more. Major cities like New York and Boston have higher graduation rate implying more competition. Small US cities like Austin and Tallahassee have low graduation rate but a higher job demand making it more likely to land a job there.   
