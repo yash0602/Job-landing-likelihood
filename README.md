@@ -14,7 +14,7 @@ For this analysis, I am not considering cross-state mobility as a factor.
 1. Retrieved data of univerisites/schools in all the US cities from opportunity atlas 
 2. Retrieved data of Job density and Graduation rate from opportunity atlas
 3. Used VLOOKUP function to extract all the data sets into a single Excel sheet 
-4. Used IF statements to get the total count of univerisites/school per city 
+4. Used COUNT.IF statement to get the total count of univerisites/school per city 
 5. Used pivot table and pivot graph to analyze the data
 
 # Source 
